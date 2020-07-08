@@ -32,6 +32,14 @@ https://github.com/ansiboy/chitu-react
 
 提供一个基本的后台管理系统，除了前端，它还包括后端服务。它即可以单独使用，也可以配合 NODE-AUTH 使用，作为一个微服务，和 NODE-AUTH（网关）组成一个主从架构。
 
+https://github.com/ansiboy/chitu-admin
+
+## TARO-BUILDER
+
+基于 tarojs 的所见即所得框架，用于需要可视化构建小程序，WEB，APP 的项目
+
+https://github.com/ansiboy/taro-builder
+
 ## WUZHUI
 
 HTML 表格控件
