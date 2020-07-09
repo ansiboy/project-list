@@ -14,6 +14,8 @@ https://github.com/ansiboy/node-auth
 
 nodejs 的 MVC 框架。类似于 JAVA 的 spring，.NET 的 MVC。 使用 typescript 开发，需要配合 typescript 使用。
 
+https://github.com/ansiboy/node-mvc
+
 ## CHITU
 
 采用 TypeScript 编写的轻量级单页面类库，帮助开发人员编写易维护的大规模项目。采用面向对象，事件驱动的编程模式。
